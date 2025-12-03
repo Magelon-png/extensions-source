@@ -1,0 +1,8 @@
+ext {
+    extName = 'NETraragi'
+    extClass = '.NETraragiFactory'
+    extVersionCode = 30
+    isNsfw = true
+}
+
+apply from: "$rootDir/common.gradle"
